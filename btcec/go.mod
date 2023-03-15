@@ -1,4 +1,4 @@
-module github.com/btcsuite/btcd/btcec/v2
+module github.com/0xkumi/btcd/btcec/v2
 
 go 1.17
 
